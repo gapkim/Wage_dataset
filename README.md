@@ -6,4 +6,4 @@ In this report, generalized additive models (GAMs) have been used to analyze ‘
 GitHub_Proj11.pdf: Project report in PDF <br>
 GitHub_Proj11.R: R script
 
-
+You can view the **Project report** in HTML by [clicking here](http://htmlpreview.github.io/?
